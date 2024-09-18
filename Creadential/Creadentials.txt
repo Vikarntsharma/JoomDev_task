@@ -1,0 +1,7 @@
+Admin Login http://localhost/joomdev_task/admin_login.php
+username - admin
+password - Password@123
+
+user login  http://localhost/joomdev_task/user_login.php
+email- user@email.com
+password - User@123
